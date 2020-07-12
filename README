@@ -1,3 +1,12 @@
+Patched version of st
++alpha
++scroll back (ctrl j/k)
++xresources
++always fill screen
+
+
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
